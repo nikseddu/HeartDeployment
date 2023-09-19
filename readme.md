@@ -27,7 +27,7 @@ docker run docker run --rm -d -p 5000:5000 IMAGE_ID
 
 [Python]: https://img.shields.io/badge/python-brightgreen?logo=Python&labelColor=Yellow
 [Docker]: https://img.shields.io/docker/automated/nikseddu/heartv1
-[Flask]: https://img.shields.io/badge/:badgeContent?logo=flask
+[Flask]: https://img.shields.io/badge/flask-blue?logo=Flask
 
 
 [Python-url]: https://python.org/
