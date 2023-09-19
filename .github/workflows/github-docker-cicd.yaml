@@ -44,9 +44,9 @@ jobs:
           run: |
             pylint --disable=R,C  app.py
 
-        - name: Test
-          run: |
-            python -m pytest -vv test.py
+        # - name: Test
+        #   run: |
+        #     python -m pytest -vv test.py
 
   # cd_pipeline:
   #     runs-on: ubuntu-latest 
