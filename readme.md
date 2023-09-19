@@ -4,7 +4,7 @@
 
 ## Creating an MLOps Pipeline With GitHub and Docker Hub to serve the application predicting heart failure  
 
-[Dataset Link] (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+Dataset Link : (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ## Steps to Run: 
 
@@ -18,7 +18,7 @@ docker run docker run --rm -d -p 5000:5000 IMAGE_ID
 * [![Python][Python]][Python-url]
 * [![Docker][Docker]][Docker-url]
 * [![Flask][Flask]][Flask-url]
-x
+
 
 
 
@@ -27,7 +27,7 @@ x
 
 [Python]: https://img.shields.io/badge/python-brightgreen?logo=Python&labelColor=Yellow
 [Docker]: https://img.shields.io/docker/automated/nikseddu/heartv1
-[Flask] : https://img.shields.io/badge/:badgeContent?logo=flask
+[Flask]: https://img.shields.io/badge/:badgeContent?logo=flask
 
 
 [Python-url]: https://python.org/
